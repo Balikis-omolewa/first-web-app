@@ -1,6 +1,9 @@
 body{
     background-color: blueviolet;
 }
-h1{
+.title{
     color: aliceblue;
+}
+#title{
+    color: red;
 }
